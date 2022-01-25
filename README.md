@@ -2,7 +2,7 @@
  
  NFT's were Minted on the ThirdWeb: https://thirdweb.com/rinkeby/0xfb789B6C7223C2252a2c55C119d3bF761B65aD3C/nft-collection/0x9F687D07C5eD72a4490a5B685ef9Be1385d8d375
 
-> (Only on Testnet Servers haha 🔥🔥🔥) NOTE : These NFT’s are officially from the Bored Ape Community and not owned by me. 
+> (Only on Testnet Servers haha 🔥🔥🔥) NOTE : These NFT’s are officially created by The Bored Ape Yacht Club .
 
  OpenSea:https://testnets.opensea.io/0x3ffa1398732d846b4a9c462ea538fa25026ac4ce
  
