@@ -1,4 +1,4 @@
-# NFT's are Droping 🚀
+# NFT's are Dropping 🚀
  
  NFT's were Minted on the ThirdWeb: https://thirdweb.com/rinkeby/0xfb789B6C7223C2252a2c55C119d3bF761B65aD3C/nft-collection/0x9F687D07C5eD72a4490a5B685ef9Be1385d8d375
 
